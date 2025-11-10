@@ -11,6 +11,7 @@ import AdmissionProcess from './pages/AdmissionProcedure';
 import ContactUs from './pages/Contact';
 import NotFound from './pages/NotFound';
 import PlacementPage from './pages/Placement';
+import ScholarshipPage from './pages/ScholarshipPage';
 
 const App = () => {
   return (
@@ -26,6 +27,7 @@ const App = () => {
 <Route path='/contact' element={ <ContactUs/> } /> 
 <Route path='*' element={ <NotFound/>  } /> 
 <Route path='/placements' element={ <PlacementPage/>  } /> 
+<Route path='/scholarships' element={ <ScholarshipPage/> } />
 
 
 
