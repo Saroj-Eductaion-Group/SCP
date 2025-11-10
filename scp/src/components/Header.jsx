@@ -15,8 +15,6 @@ const menuItems = [
       { name: "About Us", path: "/about" },
       { name: "Chairman Message", path: "/chairman-message" },
       { name: "Vision & Mission", path: "/vision-mission" },
-      { name: "Infrastructure", path: "/infrastructure" },
-      { name: "Faculty", path: "/faculty" },
     ],
   },
   {
