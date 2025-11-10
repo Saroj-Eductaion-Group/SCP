@@ -25,16 +25,15 @@ const menuItems = [
       { name: "Admission Process", path: "/admission-process" },
       { name: "Fee Structure", path: "/fee-structure" },
       { name: "Scholarships", path: "/scholarships" },
-      { name: "International Students", path: "/international-students" },
+     
     ],
   },
   {
     title: "Academics",
     links: [
       { name: "Courses", path: "/courses" },
-      { name: "Syllabus", path: "/syllabus" },
       { name: "Academic Calendar", path: "/academic-calendar" },
-      { name: "Examination", path: "/examination" },
+
     ],
   },
   {
