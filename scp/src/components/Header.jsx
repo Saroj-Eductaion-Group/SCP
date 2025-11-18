@@ -21,7 +21,7 @@ const menuItems = [
     title: "Admission",
     links: [
       { name: "Admission Process", path: "/admission-process" },
-      { name: "Fee Structure", path: "/fee-structure" },
+      // { name: "Fee Structure", path: "/fee-structure" },
       { name: "Scholarships", path: "/scholarships" },
      
     ],
@@ -30,7 +30,7 @@ const menuItems = [
     title: "Academics",
     links: [
       { name: "Courses", path: "/courses" },
-      { name: "Academic Calendar", path: "/academic-calendar" },
+      // { name: "Academic Calendar", path: "/academic-calendar" },
 
     ],
   },
