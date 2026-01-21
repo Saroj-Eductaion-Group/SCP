@@ -118,7 +118,7 @@ export default function PharmacyHero() {
                 </span>
               </Link>
 
-              <Button
+              {/* <Button
                 variant="outline"
                 size="lg"
                 className="border-2 hover:cursor-pointer border-gray-300 hover:border-blue-500 px-8 py-3 rounded-full transition-all duration-300 hover:bg-blue-50"
@@ -126,7 +126,7 @@ export default function PharmacyHero() {
               <a href="/courses" className="p-10" >
                 Explore Programs
                 </a>
-              </Button>
+              </Button> */}
             </div>
 
             {/* Features */}

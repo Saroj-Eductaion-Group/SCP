@@ -31,9 +31,9 @@ const Footer = () => {
           <h3 className="text-white text-xl font-semibold mb-4">Useful Links</h3>
           <ul className="space-y-2 text-sm">
             <li><Link to="/admission-process" className="hover:text-white">Admissions</Link></li>
-            <li><Link to="/fee-structure" className="hover:text-white">Fee Structure</Link></li>
+            {/* <li><Link to="/fee-structure" className="hover:text-white">Fee Structure</Link></li> */}
             <li><Link to="/scholarships" className="hover:text-white">Scholarships</Link></li>
-            <li><Link to="/academic-calendar" className="hover:text-white">Academic Calendar</Link></li>
+            {/* <li><Link to="/academic-calendar" className="hover:text-white">Academic Calendar</Link></li> */}
           </ul>
         </div>
 
