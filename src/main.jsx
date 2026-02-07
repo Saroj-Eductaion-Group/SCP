@@ -9,7 +9,7 @@ import ScrollTop from "./components/scrollTop";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     
-    <Router>
+    <Router basename="/scp">
       <ScrollTop />
       <App/>
     </Router>
