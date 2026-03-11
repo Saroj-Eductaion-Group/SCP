@@ -65,11 +65,7 @@ export default function HiringPartnersSlider() {
                     className="bg-white p-5 rounded-lg shadow-sm hover:shadow-md transition-all w-full h-full flex items-center justify-center border border-gray-100"
                   >
                     <img
-<<<<<<< HEAD
                       src={`scp/${company.src}`}
-=======
-                      src={company.src}
->>>>>>> b4e20706e5b619c72116dcaddb777c3963d39bea
                       alt={company.name}
                       className="h-12 object-contain  transition-all duration-300"
                       loading="lazy"
