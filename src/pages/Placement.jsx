@@ -178,10 +178,17 @@ function StudentCard({ student }) {
     <div className="bg-white rounded-lg shadow-lg overflow-hidden hover:shadow-xl transition-shadow duration-300">
       <div className="relative">
         <img
+<<<<<<< HEAD
   src={`/scp${student.photo}?height=200&width=200`}
   alt={student.name}
   className="w-full h-64 object-cover"
 />
+=======
+          src={`${student.photo}?height=200&width=200`}
+          alt={student.name}
+          className="w-full h-64 object-cover"
+        />
+>>>>>>> b4e20706e5b619c72116dcaddb777c3963d39bea
         <div className="absolute top-4 right-4 bg-green-500 text-white px-3 py-1 rounded-full text-sm font-semibold">
           {student.package}
         </div>
